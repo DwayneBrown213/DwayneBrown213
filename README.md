@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I’m Dwayne Brown — QA Engineer
 
-<!--
-**DwayneBrown213/DwayneBrown213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **manual & automated testing** of web, API, and mobile apps.  
+I enjoy finding bugs before users do and making sure software ships with quality.  
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tools
+- Web UI Automation: **WebdriverIO + Mocha**
+- API Testing: **Postman, Newman**
+- Mobile Testing: **Android Studio Emulator**
+- Database Validation: **SQL**
+- Bug Tracking: **Jira, GitHub Issues**
+- CI/CD: **GitHub Actions** (running automated tests in pipelines)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- 🤖 [Urban Routes UI Automation](https://github.com/DwayneBrown213/hm08-qa-us)  
+  WebdriverIO + Mocha tests, page objects, CI badge.  
+
+- 🌐 [Urban Grocer API Testing](https://github.com/DwayneBrown213/hm07-qa-us)  
+  Postman collections & Newman runs.  
+
+- 📘 [QA Portfolio](https://github.com/DwayneBrown213/Q.A.-Portfolio)  
+  Bug reports, SQL queries, and documentation.  
+
+### 📫 Contact
+- Email: **carmitdwayne@gmail.com**  
+- LinkedIn: [linkedin.com/in/dwayne-brown](#)  
+
+---
